@@ -4,7 +4,7 @@ For example, a self-driving car that's trained on imagery taken on a sunny day (
 
 This is our replication of test-time adaptation code for this [excellent repo](https://github.com/locuslab/tta_conjugate) using a test-time adaptation technique known as "Conjugate Pseudolabeling". Credits to Sachin Goyal*, Mingjie Sun*, Aditi Raghunanthan, J. Zico Kolter. Check out their [paper](https://arxiv.org/pdf/2207.09640) on the subject, too.
 
-### Contents TODO
+### Contents
 
-### 
+This repository contains a primary jupyter notebook, `TTA.ipynb`, which contains code that can be run to simulate the generation of hard pseudolabels for a distribution shift from CIFAR-10 to CIFAR-10C. The notebook can be run from top to bottom to perform this task, but it is **highly** recommended to use at least 1 gpu for this as it greatly speeds up the compute time. 
 
