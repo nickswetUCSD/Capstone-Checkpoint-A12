@@ -1,0 +1,16 @@
+Severity 5 Distortion Type,Error (Hard Pseudolabels),Error (Conjugate Pseudolabels)
+Gaussian Noise,88.86%,32.43%
+Shot Noise,89.00%,31.74%
+Impulse Noise,89.48%,39.23%
+Defocus Blur,88.98%,25.93%
+Glass Blur,89.04%,35.61%
+Motion Blur,88.90%,30.82%
+Zoom Blur,89.12%,22.81%
+Snow,89.70%,32.41%
+Frost,89.76%,29.99%
+Fog,89.76%,38.44%
+Brightness,89.38%,25.64%
+Contrast,88.52%,36.21%
+Elastic Transform,89.26%,31.30%
+Pixelate,88.66%,25.58%
+JPEG Compression,89.12%,29.55%
